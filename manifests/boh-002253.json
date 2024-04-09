@@ -32,7 +32,7 @@
     "canvases" : [ {
       "@id" : "http://79954e27-50f7-4980-9573-8af64aabe3ba",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "1r",
       "height" : 2326,
       "width" : 1655,
       "images" : [ {
@@ -58,7 +58,7 @@
     }, {
       "@id" : "http://487d77ce-d27a-4ec4-8bba-f574d111f2cf",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "1v",
       "height" : 2400,
       "width" : 1708,
       "images" : [ {
@@ -84,7 +84,7 @@
     }, {
       "@id" : "http://14ffde41-2b08-4632-8ccf-5c6591151279",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "2r",
       "height" : 2407,
       "width" : 1679,
       "images" : [ {
@@ -110,7 +110,7 @@
     }, {
       "@id" : "http://3b78cb9f-fa67-44df-ae26-1bf6a56fb2cb",
       "@type" : "sc:Canvas",
-      "label" : "Empty canvas",
+      "label" : "2v",
       "height" : 2407,
       "width" : 1679,
       "images" : [ {
