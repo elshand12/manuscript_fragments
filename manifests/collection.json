@@ -1,0 +1,13 @@
+{
+  "id" : "https://elshand12.github.io/manuscript_fragments/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in elshand12/manuscript_fragments project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://elshand12.github.io/manuscript_fragments/manifests/boh-002253.json",
+    "label" : "Book of Hours"
+  } ]
+}
