@@ -1,0 +1,139 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://elshand12.github.io/manuscript_fragments/manifests/boh-002253.json",
+  "@type" : "sc:Manifest",
+  "label" : "Book of Hours",
+  "metadata" : [ {
+    "label" : "Call Number",
+    "value" : "Manuscript Codex 002253"
+  }, {
+    "label" : "Dimensions",
+    "value" : "16 x 11 cm"
+  }, {
+    "label" : "Time Period",
+    "value" : "1330–1340"
+  }, {
+    "label" : "Language",
+    "value" : "Latin"
+  } ],
+  "description" : [ {
+    "@value" : "Bifolium of a Franco-Flemish book of hours, ca. 1330-1340, containing Lauds and Compline from the Hours of the Virgin. Decorated with historiated gold leaf initials and grotesques in tempera.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Rauner Special Collections Library, Dartmouth College",
+  "sequences" : [ {
+    "@id" : "http://901cbbec-5074-41d3-a2c5-69cd2ad451f7",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://79954e27-50f7-4980-9573-8af64aabe3ba",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2326,
+      "width" : 1655,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c493d8f4-1766-4cef-979d-417f9e178b0a",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2326,
+          "width" : 1655
+        },
+        "on" : "http://79954e27-50f7-4980-9573-8af64aabe3ba"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://487d77ce-d27a-4ec4-8bba-f574d111f2cf",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2400,
+      "width" : 1708,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d56dcd35-3df2-491e-9b7f-8dab1a1e18c0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2400,
+          "width" : 1708
+        },
+        "on" : "http://487d77ce-d27a-4ec4-8bba-f574d111f2cf"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://14ffde41-2b08-4632-8ccf-5c6591151279",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2407,
+      "width" : 1679,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b907ba85-07d0-48b4-ba8a-6a6aeeb25dae",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2407,
+          "width" : 1679
+        },
+        "on" : "http://14ffde41-2b08-4632-8ccf-5c6591151279"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3b78cb9f-fa67-44df-ae26-1bf6a56fb2cb",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2407,
+      "width" : 1679,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c192732c-c16a-4640-91dd-803b1706516c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2407,
+          "width" : 1679
+        },
+        "on" : "http://3b78cb9f-fa67-44df-ae26-1bf6a56fb2cb"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
