@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 52,
+    "height" : 73
+  }, {
+    "width" : 104,
+    "height" : 146
+  }, {
+    "width" : 207,
+    "height" : 291
+  }, {
+    "width" : 414,
+    "height" : 582
+  }, {
+    "width" : 828,
+    "height" : 1163
+  }, {
+    "width" : 1655,
+    "height" : 2326
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1655,
+  "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2326
+}
