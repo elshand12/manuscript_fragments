@@ -20,6 +20,10 @@
     "@value" : "Bifolium of a Franco-Flemish book of hours, ca. 1330-1340, containing Lauds and Compline from the Hours of the Virgin. Decorated with historiated gold leaf initials and grotesques in tempera.",
     "@language" : "en"
   } ],
+    }, {
+    "label" : "Repository",
+    "value" : "Rauner Special Collections Library, Dartmouth College"
+  } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
   "attribution" : "Rauner Special Collections Library, Dartmouth College",
   "sequences" : [ {
