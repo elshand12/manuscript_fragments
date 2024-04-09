@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1679,
+    "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/canvas/",
+    "label" : {
+      "none" : [ "boh-002253-004" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 53,
+              "height" : 76
+            }, {
+              "width" : 105,
+              "height" : 151
+            }, {
+              "width" : 210,
+              "height" : 301
+            }, {
+              "width" : 420,
+              "height" : 602
+            }, {
+              "width" : 840,
+              "height" : 1204
+            }, {
+              "width" : 1679,
+              "height" : 2407
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1679,
+            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2407
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1679,
+          "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2407
+        },
+        "target" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/canvas/"
+      } ]
+    } ],
+    "height" : 2407
+  }, {
     "width" : 1708,
     "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/canvas/",
     "label" : {
