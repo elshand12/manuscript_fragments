@@ -1,0 +1,82 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://1aef9de9-7a96-487d-ac4e-3c6d4eade54d",
+	"@type": "sc:Manifest",
+	"label": "Book of Hours, ca. 1500",
+	"metadata": [
+		{
+			"label": "Repository",
+			"value": "Rauner Library, Dartmouth "
+		},
+		{
+			"label": "Call Number",
+			"value": "Manuscript 003022"
+		},
+		{
+			"label": "Date",
+			"value": "ca. 1500"
+		},
+		{
+			"label": "Dimensions",
+			"value": "not measured"
+		},
+		{
+			"label": "Language",
+			"value": "Latin"
+		}
+	],
+	"description": [
+		{
+			"@value": "Single leaf, with signature mark Hiii, of a book of hours. Printed with a woodblock on vellum, the leaf is hand colored on the recto. Contains several large initials in red and blue and is rubricated. The large illustration on the recto is of the Annunciation. Contains the Latin text for the introit of the Mass of the Virgin, "Salve sancta parens"; the prayer "Concede nos"; and the lesson from Ecclesiasticus 14:24, "Ab initio ante saecula."",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Rauner Library, Dartmouth",
+	"sequences": [
+		{
+			"@id": "http://c097ef25-e6f9-400d-b805-0edbae1f442d",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://8c4682f3-07d5-43e5-9a71-e41627530fa8",
+					"@type": "sc:Canvas",
+					"label": "1r",
+					"height": 3280,
+					"width": 2378,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5797cefd-bc74-456a-a1ca-5b29eb3eecf5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/boh-003022-001_202404/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/boh-003022-001_202404",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3280,
+								"width": 2378
+							},
+							"on": "http://8c4682f3-07d5-43e5-9a71-e41627530fa8"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
