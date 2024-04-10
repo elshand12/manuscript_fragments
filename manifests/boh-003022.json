@@ -27,7 +27,7 @@
 	],
 	"description": [
 		{
-			"@value": "Single leaf, with signature mark Hiii, of a book of hours. Printed with a woodblock on vellum, the leaf is hand colored on the recto. Contains several large initials in red and blue and is rubricated. The large illustration on the recto is of the Annunciation.",
+			"@value": "Single leaf, with signature mark Hiii, of a book of hours. Printed with a woodblock on vellum, the leaf is hand colored on the recto. Contains several large initials in red and blue and is rubricated. The large illustration on the recto is of the Annunciation. Contains the Latin text for the introit of the Mass of the Virgin, \"Salve sancta parens\"; the prayer \"Concede nos\"; and the lesson from Ecclesiasticus 14:24, \"Ab initio ante saecula.\"",
 			"@language": "en"
 		}
 	],
@@ -71,6 +71,37 @@
 								"width": 2378
 							},
 							"on": "http://8c4682f3-07d5-43e5-9a71-e41627530fa8"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://75982a10-1178-4812-9871-5b6405db268c",
+					"@type": "sc:Canvas",
+					"label": "1v",
+					"height": 3238,
+					"width": 2352,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://8533db48-8c4f-4ce9-befa-7dab5d94e190",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://iiif.archivelab.org/iiif/boh-003022-002/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://iiif.archivelab.org/iiif/boh-003022-002",
+									"profile": [
+										"http://iiif.io/api/image/2/level2.json"
+									]
+								},
+								"height": 3238,
+								"width": 2352
+							},
+							"on": "http://75982a10-1178-4812-9871-5b6405db268c"
 						}
 					],
 					"related": ""
