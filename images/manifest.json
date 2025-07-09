@@ -1,237 +1,336 @@
 {
-  "id" : "https://elshand12.github.io/manuscript_fragments/images/manifest.json",
-  "label" : {
-    "en" : [ "All images loaded in elshand12/manuscript_fragments project" ]
-  },
-  "type" : "Manifest",
-  "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "width" : 1652,
-    "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/canvas/",
-    "label" : {
-      "none" : [ "boh-002253-001" ]
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://elshand12.github.io/manuscript_fragments/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in elshand12/manuscript_fragments project"
+        ]
     },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 52,
-              "height" : 74
-            }, {
-              "width" : 104,
-              "height" : 147
-            }, {
-              "width" : 207,
-              "height" : 293
-            }, {
-              "width" : 413,
-              "height" : 586
-            }, {
-              "width" : 826,
-              "height" : 1171
-            }, {
-              "width" : 1652,
-              "height" : 2342
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1652,
-            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 2342
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1652,
-          "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 2342
+    "items": [
+        {
+            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "boh-002253-003"
+                ]
+            },
+            "height": 2400,
+            "width": 1708,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 54,
+                                                "height": 75
+                                            },
+                                            {
+                                                "width": 107,
+                                                "height": 150
+                                            },
+                                            {
+                                                "width": 214,
+                                                "height": 300
+                                            },
+                                            {
+                                                "width": 427,
+                                                "height": 600
+                                            },
+                                            {
+                                                "width": 854,
+                                                "height": 1200
+                                            },
+                                            {
+                                                "width": 1708,
+                                                "height": 2400
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1708,
+                                        "@id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2400,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/canvas/"
-      } ]
-    } ],
-    "height" : 2342
-  }, {
-    "width" : 1679,
-    "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/canvas/",
-    "label" : {
-      "none" : [ "boh-002253-004" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 53,
-              "height" : 76
-            }, {
-              "width" : 105,
-              "height" : 151
-            }, {
-              "width" : 210,
-              "height" : 301
-            }, {
-              "width" : 420,
-              "height" : 602
-            }, {
-              "width" : 840,
-              "height" : 1204
-            }, {
-              "width" : 1679,
-              "height" : 2407
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1679,
-            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 2407
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1679,
-          "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 2407
+        {
+            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "boh-002253-002"
+                ]
+            },
+            "height": 2326,
+            "width": 1655,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 52,
+                                                "height": 73
+                                            },
+                                            {
+                                                "width": 104,
+                                                "height": 146
+                                            },
+                                            {
+                                                "width": 207,
+                                                "height": 291
+                                            },
+                                            {
+                                                "width": 414,
+                                                "height": 582
+                                            },
+                                            {
+                                                "width": 828,
+                                                "height": 1163
+                                            },
+                                            {
+                                                "width": 1655,
+                                                "height": 2326
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1655,
+                                        "@id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2326,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/canvas/"
-      } ]
-    } ],
-    "height" : 2407
-  }, {
-    "width" : 1708,
-    "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/canvas/",
-    "label" : {
-      "none" : [ "boh-002253-003" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 54,
-              "height" : 75
-            }, {
-              "width" : 107,
-              "height" : 150
-            }, {
-              "width" : 214,
-              "height" : 300
-            }, {
-              "width" : 427,
-              "height" : 600
-            }, {
-              "width" : 854,
-              "height" : 1200
-            }, {
-              "width" : 1708,
-              "height" : 2400
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1708,
-            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 2400
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1708,
-          "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 2400
+        {
+            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "boh-002253-004"
+                ]
+            },
+            "height": 2407,
+            "width": 1679,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 53,
+                                                "height": 76
+                                            },
+                                            {
+                                                "width": 105,
+                                                "height": 151
+                                            },
+                                            {
+                                                "width": 210,
+                                                "height": 301
+                                            },
+                                            {
+                                                "width": 420,
+                                                "height": 602
+                                            },
+                                            {
+                                                "width": 840,
+                                                "height": 1204
+                                            },
+                                            {
+                                                "width": 1679,
+                                                "height": 2407
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1679,
+                                        "@id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2407,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-004/canvas/"
+                        }
+                    ]
+                }
+            ]
         },
-        "target" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-003/canvas/"
-      } ]
-    } ],
-    "height" : 2400
-  }, {
-    "width" : 1655,
-    "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/canvas/",
-    "label" : {
-      "none" : [ "boh-002253-002" ]
-    },
-    "type" : "Canvas",
-    "items" : [ {
-      "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/AnnoPage/",
-      "type" : "AnnotationPage",
-      "items" : [ {
-        "motivation" : "Painting",
-        "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/annotation/",
-        "type" : "Annotation",
-        "body" : {
-          "service" : [ {
-            "tiles" : [ {
-              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
-              "width" : 1024,
-              "height" : 1024
-            } ],
-            "protocol" : "http://iiif.io/api/image",
-            "sizes" : [ {
-              "width" : 52,
-              "height" : 73
-            }, {
-              "width" : 104,
-              "height" : 146
-            }, {
-              "width" : 207,
-              "height" : 291
-            }, {
-              "width" : 414,
-              "height" : 582
-            }, {
-              "width" : 828,
-              "height" : 1163
-            }, {
-              "width" : 1655,
-              "height" : 2326
-            } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
-            "width" : 1655,
-            "@id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 2326
-          } ],
-          "format" : "image/jpeg",
-          "width" : 1655,
-          "id" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/full/full/0/default.jpg",
-          "type" : "Image",
-          "height" : 2326
-        },
-        "target" : "https://elshand12.github.io/manuscript_fragments/images/boh-002253-002/canvas/"
-      } ]
-    } ],
-    "height" : 2326
-  } ]
+        {
+            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "boh-002253-001"
+                ]
+            },
+            "height": 2342,
+            "width": 1652,
+            "items": [
+                {
+                    "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 52,
+                                                "height": 74
+                                            },
+                                            {
+                                                "width": 104,
+                                                "height": 147
+                                            },
+                                            {
+                                                "width": 207,
+                                                "height": 293
+                                            },
+                                            {
+                                                "width": 413,
+                                                "height": 586
+                                            },
+                                            {
+                                                "width": 826,
+                                                "height": 1171
+                                            },
+                                            {
+                                                "width": 1652,
+                                                "height": 2342
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1652,
+                                        "@id": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2342,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://elshand12.github.io/manuscript_fragments/images/boh-002253-001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
